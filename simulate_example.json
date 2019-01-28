@@ -1,0 +1,48 @@
+[
+  {
+    "passing": 2,
+    "finishing": 2,
+    "dribbling": 2,
+    "tackling": 2,
+    "set_pieces": 2,
+    "speed": 2,
+    "acceleration": 2,
+    "stamina": 2,
+    "leadership": 2,
+    "perseverance": 2
+  },
+  {
+    "passing": 10,
+    "dribbling": 9,
+    "acceleration": 2,
+    "stamina": 2
+  },
+  {
+    "tackling": 10,
+    "speed": 2,
+    "leadership": 2,
+    "perseverance": 9
+  },
+  {
+    "speed": 8,
+    "acceleration": 8,
+    "stamina": 7
+  },
+  {
+    "passing": 10,
+    "dribbling": 9,
+    "acceleration": 2,
+    "stamina": 2
+  },
+  {
+    "tackling": 10,
+    "speed": 2,
+    "leadership": 2,
+    "perseverance": 9
+  },
+  {
+    "speed": 8,
+    "acceleration": 8,
+    "stamina": 7
+  }
+]
